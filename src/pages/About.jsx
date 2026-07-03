@@ -1,7 +1,7 @@
 export default function About() {
     return (
         <div>
-            <h1>¹ØÓÚ</h1>
+            <h1>å…³äºŽ</h1>
         </div>
     );
 }
